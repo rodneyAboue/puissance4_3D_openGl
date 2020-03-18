@@ -1,0 +1,27 @@
+\\================================================================//
+			MANUEL D'UTILISATION
+//================================================================\\
+
+
+TOUCHE:
+
+	- Pour bougé le Plateau :
+			- 7 et 9 pour pivoté l'ensemble du Plateau
+			- 5 pour avoir une vue de haut
+	- Pour bougé le Pion de sélection :
+			
+				
+			- 8 et 2 pour le mouvoir de d'avant ou en arrière
+			- 4 et 6 pour le mouvoir de gauche à droite 
+			- 0 pour validé l'emplacement.   
+
+	-echap pour quitter le jeu
+	- / pour que le plateau revienne à la position d'origine
+
+règle du jeu :
+-------------- 
+le but du jeu est d'aligné 4 sphères en lignes, colonnes ou diagonales.
+************toutes les diagonnale sont comprise**********************
+A chaque fois qu'un joueur gagne le jeu recommence automatiquement 
+Si toutes les piles sont pleines on quitte le jeu  automatiquement
+Il ne faut pas aller trop vite sur la validation.
